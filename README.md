@@ -1,2 +1,2 @@
 # Dynamic-Logit-Demand-Estimation
-Code of Demand Estimation in logit style
+##ロジット型動学需要推定モデル
