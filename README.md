@@ -81,6 +81,6 @@ $$
  
  以下のコードではRust(1987)のような[NFXP](https://www.jstor.org/stable/1911259)アルゴリズムを採用していますが、 $T(V_0) - V_0 = 0$ を制約条件として[MPEC](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA7925)アルゴリズムで推定することも可能です。
 
-* [プログラムコード（J＝１）](https://github.com/yanoharu/Dynamic-Logit-Demand-Estimation/DynamicDemandEst_SingleChoice.ipynb)
-* [プログラムコード（J＝２）](https://github.com/yanoharu/Dynamic-Logit-Demand-Estimation/DynamicDemandEst_DoubleChoice.ipynb)
+* [プログラムコード（J＝１）](https://github.com/yanoharu/Dynamic-Logit-Demand-Estimation/blob/main/DynamicDemandEst_SingleChoice.ipynb)
+* [プログラムコード（J＝２）](https://github.com/yanoharu/Dynamic-Logit-Demand-Estimation/blob/main/DynamicDemandEst_DoubleChoice.ipynb)
 
